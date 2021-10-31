@@ -1,0 +1,236 @@
+[
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 1,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 1,
+      "amount": 1
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 2,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 2,
+      "amount": 100
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 3,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 3,
+      "amount": 60
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 4,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 4,
+      "amount": 15
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 5,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 5,
+      "amount": 2.5
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 6,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 6,
+      "amount": 2.5
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 7,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 7,
+      "amount": 30
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 8,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 8,
+      "amount": 1
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 9,
+    "fields": {
+      "recipe_id": 1,
+      "ingredient_id": 9,
+      "amount": 2.5
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 10,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 10,
+      "amount": 4
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 11,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 7,
+      "amount": 50
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 12,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 4,
+      "amount": 15
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 13,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 11,
+      "amount": 200
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 14,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 12,
+      "amount": 1000
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 15,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 13,
+      "amount": 200
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 16,
+    "fields": {
+      "recipe_id": 2,
+      "ingredient_id": 14,
+      "amount": 150
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 17,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 15,
+      "amount": 800
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 18,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 8,
+      "amount": 1
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 19,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 16,
+      "amount": 150
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 20,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 10,
+      "amount": 1
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 21,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 17,
+      "amount": 200
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 22,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 18,
+      "amount": 100
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 23,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 19,
+      "amount": 15
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 24,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 20,
+      "amount": 15
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 25,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 4,
+      "amount": 5
+    }
+  },
+  {
+    "model": "recipebook.recipeingredient",
+    "pk": 26,
+    "fields": {
+      "recipe_id": 3,
+      "ingredient_id": 21,
+      "amount": 5
+    }
+  }
+]
